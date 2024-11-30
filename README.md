@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on I’m currently working on Cafeteria Managemnet using Video Analytics and Stress predictino.
+- 🔭 I’m currently working on I’m currently working on Cafeteria Managemnet using Video Analytics and Stress Prediction.
   
 - 🌱 I’m currently learning ** Deeplearning, LLMs, GenAI and Computer Vision**
 
