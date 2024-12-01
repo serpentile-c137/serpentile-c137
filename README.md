@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Cafeteria Managemnet using Video Analytics and Stress Prediction.
   
-- 🌱 I’m currently learning ** Deeplearning, LLMs, GenAI and Computer Vision**
+- 🌱 I’m currently learning **Deeplearning, LLMs, GenAI and Computer Vision**
 
 - 💬 Ask me about **Exploratory Data Analytics, Model Prediction using AIML algorithms**
 
