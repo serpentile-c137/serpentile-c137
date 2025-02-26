@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Latest projects :**Cafeteria Managemnet using Video Analytics** and **Stress Prediction**.
+- 🔭 Latest projects :**Cafeteria Managemnet using Video Analytics**, **Stress Prediction** and **News Research Tool**(RAG based AI tool).
   
 - 🌱 I’m currently learning **Deeplearning, LLMs and GenAI**
 
