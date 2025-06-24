@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Latest projects :**Earning Call Analyzer**, **Research Paper Summarizer** and **News Research Tool**(RAG based AI tool).
+- 🔭 Latest projects :**Earning Call Analyzer**, **Gita-LLM** and **NeuroNest**.
   
-- 🌱 I’m currently learning **Deeplearning, LLMs and GenAI**
+- 🌱 I’m currently learning **LLMs, GenAI and Agentic-AI**
 
-- 💬 Ask me about **Exploratory Data Analytics, Model Prediction using AIML algorithms**
+- 💬 Ask me about **Exploratory Data Analytics, Model Prediction using AIML algorithms, Generative AI, Agents, Tools**
 
 - 📫 How to reach me **shardulggore@gmail.com**
 
