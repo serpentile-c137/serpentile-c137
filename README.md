@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Latest projects :**Earning Call Analyzer**, **Gita-LLM** and **NeuroNest**.
+- 🔭 Latest projects :**Earning Call Analyzer**, **Gita-LLM**, **NeuroNest** and **DataCronyx: AutoEda & AutoTrainer**.
   
 - 🌱 I’m currently learning **LLMs, GenAI and Agentic-AI**
 
